@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 void conversao(char cpf[11]){
     int cpf_num[11];
